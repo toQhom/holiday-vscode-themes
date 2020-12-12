@@ -1,0 +1,29 @@
+{
+    "name": "Easter-Theme",
+    "displayName": "Easter-Theme",
+    "description": "Get some hope with this theme. Easter Color theme",
+    "publisher": "LyndseyBecker",
+    "author": {
+        "name": "Lyndsey Becker"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "repository": {
+        "type": "gitHub",
+        "url": "https://github.com/lmbeck/holiday-vscode-themes.git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Easter-Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Easter-Theme-color-theme.json"
+            }
+        ]
+    }
+}
