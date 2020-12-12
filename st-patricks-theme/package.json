@@ -1,0 +1,21 @@
+{
+    "name": "st-patricks-theme",
+    "displayName": "st.patricks-theme",
+    "description": "Get lucky with this festive St.Patty's theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "St.Patrick's Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/St.Patrick's Theme-color-theme.json"
+            }
+        ]
+    }
+}
