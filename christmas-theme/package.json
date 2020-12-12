@@ -1,0 +1,29 @@
+{
+    "name": "christmas-theme",
+    "displayName": "Christmas-Theme",
+    "description": "color theme for chirstmas",
+    "publisher": "Lyndsey Becker",
+    "author":{
+        "name": "Lyndsey Becker"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lmbeck/holiday-vscode-themes.git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "christmas-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/christmas-theme-color-theme.json"
+            }
+        ]
+    }
+}
