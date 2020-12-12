@@ -1,0 +1,21 @@
+{
+    "name": "thanksgiving-theme",
+    "displayName": "Thanksgiving Theme",
+    "description": "A fun fall color theme for VS Code to celebrate the holiday with!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Thanksgiving Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Thanksgiving Theme-color-theme.json"
+            }
+        ]
+    }
+}
