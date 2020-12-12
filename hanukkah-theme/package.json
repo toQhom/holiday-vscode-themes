@@ -1,0 +1,21 @@
+{
+    "name": "hanukkah-theme",
+    "displayName": "Hanukkah-Theme",
+    "description": "Light up your code with this Hanukkah theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hanukkah Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hanukkah Theme-color-theme.json"
+            }
+        ]
+    }
+}
