@@ -1,0 +1,29 @@
+{
+    "name": "4th-of-july",
+    "displayName": "4th-Of-July",
+    "description": "This theme is to put you in the holiday cheer of 4th of July",
+    "publisher": "LyndseyBecker",
+    "author": {
+        "name": "Lyndsey Becker"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/lmbeck/holiday-vscode-themes.git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "4th-of-July",
+                "uiTheme": "vs",
+                "path": "./themes/4th-of-July-color-theme.json"
+            }
+        ]
+    }
+}
