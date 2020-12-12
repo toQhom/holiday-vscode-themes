@@ -2,7 +2,7 @@
     "name": "christmas-theme",
     "displayName": "Christmas-Theme",
     "description": "color theme for chirstmas",
-    "publisher": "Lyndsey Becker",
+    "publisher": "LyndseyBecker",
     "author":{
         "name": "Lyndsey Becker"
     },
@@ -13,6 +13,10 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/lmbeck/holiday-vscode-themes.git"
+    },
+    "galleryBanner": {
+        "color": "#20FC8F",
+        "theme": "dark"
     },
     "categories": [
         "Themes"

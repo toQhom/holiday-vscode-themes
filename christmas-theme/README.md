@@ -4,7 +4,7 @@ The goal of this was to develope a color theme that makes your code jolly! Hope 
 
 # Main Color Themes
 
-"editor.background": "#517c34",
+"editor.background": "#457e4c",
 "editor.foreground": "#922D50",
 "activityBarBadge.background": "#D16666",
 "sideBarTitle.foreground": "#3E5622"

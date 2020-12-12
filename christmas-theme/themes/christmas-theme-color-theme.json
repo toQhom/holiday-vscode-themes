@@ -2,7 +2,7 @@
 	"name": "christmas-theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#517c34",
+		"editor.background": "#457e4c",
 		"editor.foreground": "#922D50",
 		"activityBarBadge.background": "#D16666",
 		"sideBarTitle.foreground": "#3E5622"
