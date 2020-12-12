@@ -1,0 +1,21 @@
+{
+    "name": "valentines-day-theme",
+    "displayName": "Valentine's Day Theme",
+    "description": "A sweet little theme to celebrate Valentine's Day with!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Valentine's Day Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Valentine's Day Theme-color-theme.json"
+            }
+        ]
+    }
+}
