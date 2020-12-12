@@ -1,0 +1,29 @@
+{
+    "name": "christmas-color-theme",
+    "displayName": "Christmas_Color_Theme",
+    "description": "To keep you jolly while you code. Christmas color theme",
+    "publisher": "LyndseyBecker",
+    "author": {
+        "name": "Lyndsey Becker"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/lmbeck/holiday-vscode-themes.git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Christmas_Color_Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Christmas_Color_Theme-color-theme.json"
+            }
+        ]
+    }
+}
