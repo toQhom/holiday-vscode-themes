@@ -2,9 +2,17 @@
     "name": "st-patricks-theme",
     "displayName": "st.patricks-theme",
     "description": "Get lucky with this festive St.Patty's theme!",
+    "publisher":"RukmithaChenna",
+    "author":{
+        "name": "Rukmitha Chenna"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
+    },
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/toQhom/holiday-vscode-themes.git"
     },
     "categories": [
         "Themes"
