@@ -2,9 +2,17 @@
     "name": "hanukkah-theme",
     "displayName": "Hanukkah-Theme",
     "description": "Light up your code with this Hanukkah theme!",
+    "publisher": "Viccab",
+    "author": {
+        "name": "Rukmitha Chenna"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/toQhom/holiday-vscode-themes"
     },
     "categories": [
         "Themes"
