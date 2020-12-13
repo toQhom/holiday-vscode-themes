@@ -2,9 +2,17 @@
     "name": "thanksgiving-theme",
     "displayName": "Thanksgiving Theme",
     "description": "A fun fall color theme for VS Code to celebrate the holiday with!",
+    "publisher": "Viccab",
+    "author": {
+        "name": "Victoria Cabral"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/toQhom/holiday-vscode-themes"
     },
     "categories": [
         "Themes"
